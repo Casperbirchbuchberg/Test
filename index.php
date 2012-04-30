@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title></title>
+		<title>hest</title>
 	</head>
 	<body>
 	LOL det er mongo asdasdad
