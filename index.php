@@ -3,7 +3,7 @@
 		<title></title>
 	</head>
 	<body>
-	test
+	LOL det er mongo asdasdad
 	
 	</body>
 </html>
